@@ -1,0 +1,206 @@
+#a1{
+    height: 650px;
+    width: 100%;
+    /* background-color: rgb(183, 50, 190); */
+    background-image: url(img/wedding.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+}
+#a2{
+    height: 300px;
+    margin-top: 25px;
+    position: absolute;
+}
+#a6{
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 30px;
+    position: absolute;
+}
+#a3{
+    font-size: 95px;
+    color: rgb(62 158 251);
+    margin-top: 80px;
+    margin-left: 40px;
+    position: absolute;
+}
+#mainbody{
+    height: 1000px;
+    position: absolute;
+    margin-top: 500px;
+    
+}
+#m1:hover{
+    transform: scale(1.1);
+}
+#m2:hover{
+    transform: scale(1.1);
+}
+#m3:hover{
+    transform: scale(1.1);
+}
+#m4:hover{
+    transform: scale(1.1);
+}
+#m5:hover{
+    transform: scale(1.1);
+}
+#m6:hover{
+    transform: scale(1.1);
+}
+#m7:hover{
+    transform: scale(1.1);
+}
+#m8:hover{
+    transform: scale(1.1);
+}
+#m9:hover{
+    transform: scale(1.1);
+}
+#m10:hover{
+    transform: scale(1.1);
+}
+#m11:hover{
+    transform: scale(1.1);
+}
+#m12:hover{
+    transform: scale(1.1);
+}
+
+#m1{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/candid.jpeg);
+    border-radius:50% ;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 5px solid black;
+    float: left;
+}
+#m2{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+}
+#m3{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed1.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%;
+}
+#m4{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed2.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m5{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed3.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m6{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed4.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m7{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/weding.jpg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m8{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed5.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m9{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed6.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m10{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed7.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m11{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed8.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#m12{
+    height: 250px;
+    width: 250px;
+    background-image: url(img/wed9.jpeg);
+    border-radius:50% ;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 5px solid black;
+    background-size: 100% 100%; 
+}
+#t1{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(148 196 246);
+    margin-top: 1500px;
+}
